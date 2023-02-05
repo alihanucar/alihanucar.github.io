@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Business Administration, Hacettepe University, 2012
+* B.S. in Business Administration, Hacettepe University, 2014
 
 * M.S. in Financial Engineering, Bogazici University, 2023
 
-<br>
+
 
 Work experience
 ======
@@ -28,7 +28,6 @@ Work experience
 
 * 2019 Aug - 2019 Dec : Investment Assistant at Garanti Securities in Istanbul, Turkiye
 
-<br>
   
 Software Skills
 ======
@@ -41,7 +40,6 @@ Software Skills
 * JIRA
 
 
-<br>
   
 Courses
 ======
@@ -50,7 +48,6 @@ Instruments, Optimization Models in Economics and Finance, Data
 Analysis with Python and R, Investment Analysis and Portfolio Theory, 
 Computational Finance.
 
-<br>
   
 Certificates
 ======
