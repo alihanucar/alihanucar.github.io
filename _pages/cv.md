@@ -13,9 +13,11 @@ redirect_from:
 
 Education
 ======
+* M.S. in Financial Engineering, Bogazici University, 2023
+
 * B.S. in Business Administration, Hacettepe University, 2014
 
-* M.S. in Financial Engineering, Bogazici University, 2023
+
 
 
 
