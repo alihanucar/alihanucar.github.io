@@ -1,0 +1,25 @@
+---
+title: 'Fon Rehberi E-Book'
+date: 2023-05-02
+permalink: /posts/2023/05/blog-post-1/
+tags:
+  - fon rehberi
+  - yatırım fonu
+  - category2
+---
+
+
+
+What is Fon Rehberi?
+======
+
+Fon Rehberi, one of the first social media enterprises in Turkey to share content about mutual funds and pension funds. Through creating unique and engaging content, I was able to quickly gain a following of over 15,000 followers and 1 million monthly viewers on Twitter and Instagram. I also secured advertising partnerships with several asset management companies and published the first e-book about the mutual and pension fund sector in Turkey, which sold over 200 copies within 6 months. However, in November 2021, I made the decision to sell the project, including all social media accounts and the FonRehberi.com domain, to a buyer.
+
+<br>
+
+<a href="https://github.com/alihanucar/alihanucar.github.io/tree/master/files/ebook.pdf" download>Download Fon Rehberi E-Book</a>
+
+
+
+<br>
+
