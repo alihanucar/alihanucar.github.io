@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alihan Uçar / Personal Website"
+title                    : "Alihan Uçar"
 title_separator          : "-"
 name                     : &name "Alihan Uçar"
 description              : &description "MSc. Financial Engineer"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alihan"
   avatar           : "profile.png"
-  bio              : "Financial Controlling at DHL Express Global Aviation. Data driven explorer about saving, investing, borrowing, lending, and  managing risk"
+  bio              : "Financial Controlling at DHL Express. A data-driven expert exploring the realms of saving, investing, borrowing, lending, and managing risk"
   location         : "Leipzig, Germany"
   employer         : 
   pubmed           : 

@@ -8,21 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Education and Experiences
+About Me
 ======
 
 MSc. Financial Engineering alumni at Bogazici University, Bachelor Business Administration alumni at Hacettepe University. Experienced in asset management and highly curious to quantitative finance.
 
-About My Personality
+<br>
+
+Current Pursuits in Data-Driven Finance
 ------
 
-I am a 10-year licensed fitness athlete who thrives on challenges and growth through struggle. I approach life with discipline, dedication, sarcams and sense of humor. In my personal time, I work on public financial databases and create data-intensive financial analysis scripts and solutions for research and personal projects. I develop my projects using the Python coding language and some of my work can be found on my website and [GitHub page](https://https://github.com/alihanucar).
+I work on public financial databases and create data-intensive financial analysis scripts and solutions for research and personal projects. I develop my projects using the Python coding language and some of my work can be found on this website and my [GitHub page](https://https://github.com/alihanucar).
 
-***“Christian, Jew, Muslim, shaman, Zoroastrian, stone, ground, mountain, river, each has a secret way of being with the mystery, unique and not to be judged” -Rumi***
+<br>
+
+*“Christian, Jew, Muslim, shaman, Zoroastrian, stone, ground, mountain, river, each has a secret way of being with the mystery, unique and not to be judged” -Rumi*
 
 ![](/images/editing-talk.png)
 
-***""AIESEC Global Village, Lviv, Ukraine, 2017 Summer***
+<small>*AIESEC Global Village Festival in Lviv, Ukraine, 2017 Summer*<small>
 
 
 
