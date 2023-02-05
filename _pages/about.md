@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 
 MSc. Financial Engineering alumni at Bogazici University, Bachelor Business Administration alumni at Hacettepe University. Experienced in asset management and highly curious to quantitative finance.
 
