@@ -1,7 +1,7 @@
 ---
 permalink: /
-#title: "Alihan Uçar"
-excerpt: "About me"
+title: "About Me"
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,6 @@ About Me
 
 MSc. Financial Engineering alumni at Bogazici University, Bachelor Business Administration alumni at Hacettepe University. Experienced in asset management and highly curious to quantitative finance.
 
-<br>
 
 Current Pursuits in Data-Driven Finance
 ------
