@@ -9,51 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here!]()
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Business Administration, Hacettepe University, 2012
+
+* M.S. in Financial Engineering, Bogazici University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 Jun - Present : Controlling Analyst Assistant 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* DHL Express, Leipzig, Germany
+---
+* 2020 Jan - 2022 May : Investment Fund Specialist 
+* Is Asset Management, Istanbul, Turkiye
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
+Software Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Excel
+* VBA
+* Python
+* SQL
+* Eviews
+* Power BI
+* JIRA
+
+
+
   
-Teaching
+Courses
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Courses: Financial Calculus, Econometrics, Financial Markets and 
+Instruments, Optimization Models in Economics and Finance, Data 
+Analysis with Python and R, Investment Analysis and Portfolio Theory, 
+Computational Finance,
   
-Service and leadership
+Certificates
 ======
-* Currently signed in to 43 different slack teams
+* Capital Markets Board of Turkiye Advanced Level 3 License
+* Capital Markets Board of Turkiye Derivatives License
+* Datacamp Python Courses 
+  
+  
