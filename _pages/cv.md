@@ -19,12 +19,11 @@ Education
 
 Work experience
 ======
-* 2022 Jun - Present : Controlling Analyst Assistant 
+* 2022 Jun - Present : Controlling Analyst Assistant at DHL Express in Leipzig, Germany
 
-* DHL Express, Leipzig, Germany
----
-* 2020 Jan - 2022 May : Investment Fund Specialist 
-* Is Asset Management, Istanbul, Turkiye
+* 2020 Jan - 2022 May : Investment Fund Specialist at Is Asset Management in Istanbul, Turkiye
+
+* 2019 Aug - 2019 Dec : Investment Assistant at Garanti Securities in Istanbul, Turkiye
 
 
   
@@ -52,6 +51,6 @@ Certificates
 ======
 * Capital Markets Board of Turkiye Advanced Level 3 License
 * Capital Markets Board of Turkiye Derivatives License
-* Datacamp Python Courses 
+* Datacamp Python and SQL Courses 
   
   
