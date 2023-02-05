@@ -59,7 +59,7 @@ Certificates
   
 Projects
 ============  
-* <a href=https://github.com/alihanucar/evds_TCMB>Central Bank of the Republic of Turkey's electronic data delivery system - EVDS </a>
-* <a href=https://github.com/alihanucar/futurelossanalysis>Future Contract Loss Analysis - VIOP Derivatives Market in Istanbul Stock Exchange </a>
-* <a href=https://github.com/alihanucar/TefasAnalysis>Turkiye Electronic Fund Trading Platform - TEFAS</a>
-* <a href=https://github.com/alihanucar/nnipscraping>Investment Fund's Management Fees and AuM Values Scraping from NNIP Website</a>
+* [Central Bank of the Republic of Turkey's electronic data delivery system - EVDS](https://github.com/alihanucar/evds_TCMB)
+* [Future Contract Loss Analysis - VIOP Derivatives Market in Istanbul Stock Exchange](https://github.com/alihanucar/futurelossanalysis)
+* [Turkiye Electronic Fund Trading Platform - TEFAS](https://github.com/alihanucar/TefasAnalysis)
+* [Investment Fund's Management Fees and AuM Values Scraping from NNIP Website](https://github.com/alihanucar/nnipscraping)
