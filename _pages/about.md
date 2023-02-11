@@ -15,7 +15,7 @@ MSc. Financial Engineering alumni at Bogazici University, Bachelor Business Admi
 Current Pursuits
 ------
 
-I work with public financial databases and develop data-driven projects using Python for research and personal purposes. Some of my work can be found on my website and [GitHub page](https://github.com/alihanucar).
+I work with public financial databases and develop data-driven projects using Python for research and personal purposes. Some of my work can be found on my [GitHub page](https://github.com/alihanucar).
 
 
 
