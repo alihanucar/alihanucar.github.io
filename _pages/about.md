@@ -12,10 +12,14 @@ redirect_from:
 MSc. Financial Engineering alumni at Bogazici University, Bachelor Business Administration alumni at Hacettepe University. Experienced in asset management and highly curious to quantitative finance.
 
 
-Current Pursuits in Data-Driven Finance
+Current Pursuits
 ------
 
-I work on public financial databases and create data-intensive financial analysis scripts and solutions for research and personal projects. I develop my projects using the Python coding language and some of my work can be found on this website and my [GitHub page](https://github.com/alihanucar).
+I work with public financial databases and develop data-driven projects using Python for research and personal purposes. Some of my work can be found on my website and [GitHub page](https://github.com/alihanucar).
+
+
+
+
 
 <br>
 
