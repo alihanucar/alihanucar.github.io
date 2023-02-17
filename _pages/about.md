@@ -6,6 +6,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+<head>
+
+  <link rel="icon" type="image/png" href="images/bird-icon.png/>
+  
+</head>
+
+
 ---
 
 
