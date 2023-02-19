@@ -29,11 +29,12 @@ Work experience
 * 2019 Aug - 2019 Dec : Investment Assistant at Garanti Securities in Istanbul, Turkiye
 
 
-Projects
+Projects and Publications
 ============  
 * [Central Bank of the Republic of Turkey's electronic data delivery system - EVDS](https://github.com/alihanucar/evds_TCMB)
 * [Financial Data Analysis with FRED API](https://github.com/alihanucar/fredapi)
 * [Turkiye Electronic Fund Trading Platform - TEFAS](https://github.com/alihanucar/TefasAnalysis)
+* [Fon Rehberi E-Book released in 2020](https://github.com/alihanucar/alihanucar.github.io/raw/master/files/ebook.pdf)
 * [Investment Fund's Management Fees and AuM Values Scraping from NNIP Website](https://github.com/alihanucar/nnipscraping)
 * [Dutch House Market Analysis with Graphs](https://github.com/alihanucar/dutchhousemarket)
 * [Futures Contract Loss Analysis - VIOP Derivatives Market in Istanbul Stock Exchange](https://github.com/alihanucar/futurelossanalysis)
