@@ -37,6 +37,7 @@ Projects and Publications
 * [Fon Rehberi E-Book released in 2020](https://github.com/alihanucar/alihanucar.github.io/raw/master/files/ebook.pdf)
 * [Investment Fund's Management Fees and AuM Values Scraping from NNIP Website](https://github.com/alihanucar/nnipscraping)
 * [Dutch House Market Analysis with Graphs](https://github.com/alihanucar/dutchhousemarket)
+* [Fixed Income Investing : Duration and Convexity Effect on the Bonds](https://github.com/alihanucar/bondduration)
 * [Futures Contract Loss Analysis - VIOP Derivatives Market in Istanbul Stock Exchange](https://github.com/alihanucar/futurelossanalysis)
 
  
