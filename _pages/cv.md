@@ -30,15 +30,16 @@ Work experience
 
 
 Projects and Publications
-============  
+============
+* [Investment Portfolio Analytics Streamlit App](https://alihanucar-portfolioanalytics-app-wga5od.streamlit.app/)
+* [Fon Rehberi E-Book released in 2021](https://github.com/alihanucar/alihanucar.github.io/raw/master/files/ebook.pdf)  
 * [Central Bank of the Republic of Turkey's electronic data delivery system - EVDS](https://github.com/alihanucar/evds_TCMB)
 * [Financial Data Analysis with FRED API](https://github.com/alihanucar/fredapi)
 * [Turkiye Electronic Fund Trading Platform - TEFAS](https://github.com/alihanucar/TefasAnalysis)
-* [Fon Rehberi E-Book released in 2021](https://github.com/alihanucar/alihanucar.github.io/raw/master/files/ebook.pdf)
-* [Investment Fund's Management Fees and AuM Values Scraping from NNIP Website](https://github.com/alihanucar/nnipscraping)
-* [Dutch House Market Analysis with Graphs](https://github.com/alihanucar/dutchhousemarket)
+* [Investment Fund's Management Fees and AuM Values Scraping from NN IP Website](https://github.com/alihanucar/nnipscraping)
+* [Dutch House Market Analysis with Graphs - CBS.NL](https://github.com/alihanucar/dutchhousemarket)
 * [Fixed Income Investing : Duration and Convexity Effect on the Bonds](https://github.com/alihanucar/bondduration)
-* [Futures Contract Loss Analysis - VIOP Derivatives Market in Istanbul Stock Exchange](https://github.com/alihanucar/futurelossanalysis)
+* [Futures Loss Scenario Analysis - VIOP Derivatives Market in Istanbul Stock Exchange](https://github.com/alihanucar/futurelossanalysis)
 
  
 Software Skills
