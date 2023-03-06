@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-MSc. Financial Engineering alumni at Bogazici University, Bachelor Business Administration alumni at Hacettepe University. Experienced in asset management and highly curious to quantitative finance.
+MSc. Financial Engineering alumni at Boğaziçi University, Bachelor Business Administration alumni at Hacettepe University. Experienced in asset management and highly curious to quantitative finance.
 
 
 Current Pursuits

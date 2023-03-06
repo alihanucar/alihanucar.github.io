@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ---------
-* M.S. in Financial Engineering, Bogazici University, 2023
+* M.S. in Financial Engineering, Boğaziçi University, 2023
 
 * B.S. in Business Administration, Hacettepe University, 2019
 
@@ -24,7 +24,9 @@ Work experience
 
 * 2022 Jun - Present : Controlling Analyst Assistant at DHL Express in Leipzig, Germany
 
-* 2020 Jan - 2022 May : Investment Fund Specialist at Is Asset Management in Istanbul, Turkiye
+* 2022 Jan - 2022 May : Investment Fund Specialist at İş Asset Management in Istanbul, Turkiye
+
+  2020 Jan - 2021 December : Investment Fund Assistant Specialist at İş Asset Management in Istanbul, Turkiye
 
 * 2019 Aug - 2019 Dec : Investment Assistant at Garanti Securities in Istanbul, Turkiye
 
