@@ -33,7 +33,7 @@ Work experience
 
 Projects and Publications
 ============
-* [Investment Portfolio Analytics Streamlit App](https://alihanucar-portfolioanalytics-app-c2u2qk.streamlit.app/)
+* [Investment Portfolio Analytics Streamlit App](https://alihanucar-portfolioanalytics-app-tsjmui.streamlit.app/)
 * [Fon Rehberi E-Book released in 2021](https://github.com/alihanucar/alihanucar.github.io/raw/master/files/ebook.pdf)  
 * [Central Bank of the Republic of Turkey's electronic data delivery system - EVDS](https://github.com/alihanucar/evds_TCMB)
 * [Financial Data Analysis with FRED API](https://github.com/alihanucar/fredapi)
