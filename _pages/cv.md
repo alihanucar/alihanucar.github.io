@@ -43,6 +43,15 @@ Projects and Publications
 * [Fixed Income Investing : Duration and Convexity Effect on the Bonds](https://github.com/alihanucar/bondduration)
 * [Futures Loss Scenario Analysis - VIOP Derivatives Market in Istanbul Stock Exchange](https://github.com/alihanucar/futurelossanalysis)
 
+
+# Github
+
+|---|---|
+|[![Central Bank of the Republic of Turkey's electronic data delivery system - EVDS](https://github-readme-stats.vercel.app/api/pin/?username=alihanucar&repo=evds_TCMB)](https://github.com/alihanucar/evds_TCMB)|[![Turkiye Electronic Fund Trading Platform - TEFAS](https://github-readme-stats.vercel.app/api/pin/?username=alihanucar&repo=TefasAnalysis)](https://github.com/alihanucar/TefasAnalysis)|
+|[![tf-quant-finance](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=tf-quant-finance)](https://github.com/google/tf-quant-finance)|[![BitcoinExchangeFH](https://github-readme-stats.vercel.app/api/pin/?username=BitcoinExchangeFH&repo=BitcoinExchangeFH)](https://github.com/BitcoinExchangeFH/BitcoinExchangeFH)|
+|[![awesome-financial-open-source](https://github-readme-stats.vercel.app/api/pin/?username=gavincyi&repo=awesome-financial-open-source)](https://github.com/gavincyi/awesome-financial-open-source)|[![auto-deprecator](https://github-readme-stats.vercel.app/api/pin/?username=auto-deprecator&repo=auto-deprecator)](https://github.com/auto-deprecator/auto-deprecator)|
+
+
  
 Software Skills
 ---------
