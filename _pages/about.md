@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-MSc. Financial Engineering alumni at Boğaziçi University, Bachelor Business Administration alumni at Hacettepe University. Experienced in asset management and highly curious to quantitative finance.
+MSc. Financial Engineering alumni at Boğaziçi University, Bachelor Business Administration alumni at Hacettepe University. Working in asset management industry and highly curious to quantitative finance.
 
 
 Current Pursuits
@@ -24,7 +24,7 @@ I work with public financial databases and develop data-driven projects using Py
 
 <br>
 
-*“Christian, Jew, Muslim, shaman, Zoroastrian, stone, ground, mountain, river, each has a secret way of being with the mystery, unique and not to be judged” -Rumi*
+*“Christian, Jew, Muslim, shaman, Zoroastrian, stone, ground, mountain, river, each has a secret way of being with the mystery, unique and not to be judged” *
 
 ![](/images/editing-talk.png)
 

@@ -21,8 +21,9 @@ Education
 
 Work experience
 ---------
+* 2023 Jun - Present : Fixed Income Fund Management Sr. Specialist at Ak Asset Management in Istanbul, Turkiye
 
-* 2022 Jun - Present : Controlling Analyst Assistant at DHL Express in Leipzig, Germany
+* 2022 Jun - 2023 May : Controlling Analyst Assistant at DHL Express in Leipzig, Germany
 
 * 2022 Jan - 2022 May : Investment Fund Specialist at İş Asset Management in Istanbul, Turkiye
 
