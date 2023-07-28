@@ -24,7 +24,7 @@ I work with public financial databases and develop data-driven projects using Py
 
 <br>
 
-*“Christian, Jew, Muslim, shaman, Zoroastrian, stone, ground, mountain, river, each has a secret way of being with the mystery, unique and not to be judged” *
+**“Christian, Jew, Muslim, shaman, Zoroastrian, stone, ground, mountain, river, each has a secret way of being with the mystery, unique and not to be judged” **
 
 ![](/images/editing-talk.png)
 
